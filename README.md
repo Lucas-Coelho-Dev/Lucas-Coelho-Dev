@@ -2,7 +2,6 @@
 
 ### Um cientista de dados em construção apaixonado por tecnologia, inovação, resolução de problemas, insights e música.
 
-https://github.com/Lucas-Coelho-Dev
 
 - 🌱 I'm currently learning **SQL, PANDAS, SEABORN E MATPLOTLIB**
 
