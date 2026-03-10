@@ -2,7 +2,7 @@
 
 ### Um cientista de dados em construção apaixonado por tecnologia, inovação, resolução de problemas, insights e música.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lucas-Coelho-Dev&label=Profile views&color=0e75b6&style=flat" alt="Lucas-Coelho-Dev" /> </p>
+<p align="left"> <img src="https://github.com/Lucas-Coelho-Dev" alt="Lucas-Coelho-Dev" /> </p>
 
 - 🌱 I'm currently learning **SQL, PANDAS, SEABORN E MATPLOTLIB**
 
